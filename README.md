@@ -36,6 +36,7 @@ Scikit-learn
 Jupyter Notebook
 
 Project Workflow
+
 1)Data Preprocessing:
 Checked for missing values
 Scaled the Amount feature
