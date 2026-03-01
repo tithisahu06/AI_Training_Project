@@ -43,7 +43,7 @@ Scaled the Amount feature
 Handled class imbalance
 Split dataset into training and testing sets
 
-2️)Exploratory Data Analysis (EDA):
+2)Exploratory Data Analysis (EDA):
 Count plot of fraud vs genuine transactions
 Correlation heatmap
 Distribution analysis
