@@ -73,8 +73,6 @@ Importance of evaluation metrics in classification problems
 Model comparison and performance analysis
 Real-world application of machine learning in finance
 
-Example:
-
 
 
 Author
