@@ -76,7 +76,10 @@ Real-world application of machine learning in finance
 
 
 
-Author
+Author:
+
 Tithi Sahu
+
+
 If you like this project, feel free to star the repository!
 
