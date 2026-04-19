@@ -4,21 +4,21 @@ Dataset link from kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfrau
 
 ( As the data was very big, so the kaggle link has been uploaded here)
 
-Credit Card Fraud Detection using Machine Learning
+# Credit Card Fraud Detection using Machine Learning
 
-Project Overview
+# Project Overview
 This project focuses on detecting fraudulent credit card transactions using Machine Learning algorithms. The objective is to build a classification model that can accurately identify whether a transaction is fraudulent or genuine, helping financial institutions minimize losses due to fraud.
 
 Due to the highly imbalanced nature of transaction data, special preprocessing and evaluation techniques were applied to improve model performance.
 
-Objectives:
+# Objectives:
 Analyze and understand transaction dataset
 Handle imbalanced data effectively
 Train multiple ML classification models
 Compare model performance
 Identify the best-performing model
 
-Dataset Information:
+# Dataset Information:
 The dataset used for this project is the Credit Card Fraud Detection Dataset available on Kaggle.
 It contains transactions made by European cardholders.
 Features V1, V2, V3 ... V28 are the result of PCA transformation (for confidentiality reasons).
@@ -30,7 +30,7 @@ Class is the target variable:
 
 The dataset is highly imbalanced (fraud cases are very rare compared to normal transactions).
 
-Technologies Used:
+# Technologies Used:
 Python
 Pandas
 NumPy
@@ -39,7 +39,7 @@ Seaborn
 Scikit-learn
 Jupyter Notebook
 
-Project Workflow
+# Project Workflow
 
 1)Data Preprocessing:
 Checked for missing values
@@ -69,10 +69,10 @@ Confusion Matrix
 
 Since the dataset is imbalanced, Recall and F1-score were considered more important than accuracy.
 
-Results:
+# Results:
 After comparison, the best-performing model was selected based on Recall and F1-score to ensure maximum fraud detection with minimal false negatives.
 
-Key Learnings:
+# Key Learnings:
 Handling imbalanced datasets
 Importance of evaluation metrics in classification problems
 Model comparison and performance analysis
@@ -80,7 +80,7 @@ Real-world application of machine learning in finance
 
 
 
-Author:
+# Author:
 
 Tithi Sahu
 
